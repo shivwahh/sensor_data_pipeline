@@ -1,4 +1,3 @@
-from calendar import SATURDAY
 from src.kafka_producer.json_producer import product_data_using_file
 from src.constant import SAMPLE_DIR
 import os
